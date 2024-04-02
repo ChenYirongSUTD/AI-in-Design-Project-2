@@ -1,0 +1,109 @@
+It's been 6 months since I bought an Apple 
+Watch Series 9, and I'm going to take you   through my favorite things about this watch, 
+what makes getting an Apple Watch worth it,   and who should upgrade to this version 
+first. Let's talk about battery life. It's   been excellent on this watch, though I should 
+clarify, it's been excellent for a smartwatch,   a device where you should plan on 
+charging it about once per day. Now,   I wear my watch for sleep tracking, so I actually 
+end up charging mine in the morning when I take   a shower, and then maybe again at night if I 
+shower after a workout. With that schedule,   I've never once run into an issue with it running 
+low on battery over the past 6 months, thanks to   its fast charging capabilities. Note: the Apple 
+Watch SE models don't support fast charging. The next thing I've really liked 
+about the Series 9 is Siri. Now,   I know just hearing the name likely brought 
+up some feelings you have towards Siri,   which you can let me know what those are in the 
+comments. But specifically, the thing I've liked   about Siri on the Series 9 is it's much faster 
+at responding and getting things done for you,   like setting timers. This is due to the 
+new S9 SIP that powers the Series 9,   which has a dedicated neural engine for machine 
+learning tasks that are up to two times faster   than the previous generation. Plus, the S9 SIP 
+also allows Siri to process a lot more requests on   the watch itself locally, which is the thing that 
+I think has really helped improve its performance. The next feature I've enjoyed using that's new 
+on the Series 9 is the brighter display. It can   go up to 2,000 nits, which is double 
+what the previous Series 8 watch had,   making it easier to see in daylight conditions 
+and especially when you have sunglasses on. So,   those are the new features of the Series 9 that 
+I've really enjoyed using. Now, 6 months later,   are there features that are new to this watch that 
+I found myself not utilizing all that much? Yes,   the first of which is the double feature, 
+otherwise known as Pinchy Pinch. This feature   allows you to do things like answer a call, stop 
+a timer, play/pause music, but I've struggled with   this feature in two areas. One, just remembering 
+it's a thing you can do, which over 6 months has   been harder for me to do, in part because this 
+feature just isn't as responsive as I initially   expected it to be. I find I have to do the 
+gesture at least like two times to get it to work,   and it takes a second or two longer than ideal 
+before it actually triggers the action. Also,   it's not universally supported on the Apple 
+Watch, so an app like Pocket Casts, which I use   all of the time to control a podcast playing on my 
+iPhone, double-tap won't play or pause the podcast   on that app. The other feature I haven't used all 
+that much is HomePod control. You're supposed to   be able to bring the new Apple Watch over to a 
+HomePod and take control of the music playing   on a HomePod, but I've just never been able to 
+get this feature to actually work correctly. The   reason this is a feature at all is the Series 9 
+gained an ultra-wideband chip, similar to the chip   on the iPhone, which allows you to do other things 
+with this watch, like get precise directions to   your phone or AirTag's location, which I have 
+used a few times and it is really useful. Now, let's look at some other parts of the 
+Apple Watch experience that have stood out.   But just note, the things I'm about to talk about, 
+they're not exclusive to the Apple Watch Series 9.   The first one is watchOS 10, which is the OS 
+that came with this watch. Its UI makes more   use of the larger displays on current Apple Watch 
+Generations, which you can see in many of Apple's   redesigned apps for the watch, and the Weather one 
+in particular is a lot more useful with a way you   can just tap the dial to cycle through different 
+weather information for the day. Now, the biggest   change to the overall user experience that 
+watchOS 10 makes is a feature called Smart Stack.   It creates a persistent area you can go to for 
+apps running important things in the background,   like a timer or music playing in the background, 
+which are actually dynamically added to the Smart   Stack list, but it'll also give you information 
+from certain apps that you pin in the Smart   Stack as well. You can get to it from any watch 
+face by swiping up from the bottom of the watch,   which is how you used to get to Control Center, or 
+by turning the Digital Crown. Apple has actually   moved Control Center to the side button. Just 
+a single press from wherever you are on the   watch brings it up. And this took me the full 6 
+months to get used to. WatchOS 10 also brought a   new Snoopy watch face, which I don't use all that 
+often because I love my Infograph watch face so   much with all the complications that you can put 
+on it. But when I want a bit of a change or just   something that kind of cheers me up, the Snoopy 
+watch face is definitely good at doing that. Another thing I've used this Apple Watch for a 
+lot is Fitness tracking. I love the automatic   workout detection, so when I'm on a walk, it'll 
+just register that after about 10 to 12 minutes   and it goes ahead and logs it. The compass feature 
+is pretty useful if you're on a hike and just want   to make sure you don't get lost. WatchOS 10 
+did add new hiking views, trail information,   and typography in Maps as well. I've also utilized 
+the Apple Fitness Plus integration with the watch   a lot over the past 6 months. I love how well 
+the watch integrates my workouts and I can see   my progress up on the Apple TV. Another thing 
+I've utilized the watch for is sleep tracking,   which I know isn't totally accurate on 
+smartwatches, but I still wear mine when   I go to sleep just to give me a general idea of 
+how long I'm sleeping and how good my sleep is. Now, another huge thing I use this watch for all 
+the time is Media controls. You can now use the   Now Playing app to control media playing 
+on your other Apple devices or the watch,   or dedicated media apps like Spotify, Apple Music,   Pocket Casts, which is a great podcast 
+app. And while I typically find playing   media off my phone and then controlling it 
+with my watch to be the easier experience,   you can directly play media off the watch and 
+listen to it on your headphones, though I found   this works best in practice if you have AirPods 
+because of their automatic switching feature. Alright, a few more things I've used this watch 
+for over the past six months are first directions   with Apple Maps, where the watch will give you 
+different haptic feedback patterns for when you're   supposed to turn right or left, which I really 
+find useful and it makes it harder to miss a turn.   I use this watch to set laundry and cook timers 
+all of the time, which thanks to the faster Siri   experience is actually a pretty good experience. 
+I also use the watch to quickly respond to a text,   and yes, the tiny keyboard is surprisingly 
+somewhat usable. And the last main thing I   use the watch for is simply glanceable information 
+like weather conditions, temperature and range,   the sunup and sunset time, any calendar events 
+I may have, and the date. But importantly, these   complications also act as shortcuts to get into 
+my most used apps like Fitness and Pocket Casts. Now, let's talk downsides. And the biggest 
+downside with using this and all Apple watches   is you must have an iPhone in order to use one. 
+It's a bit of a bummer for those who really like   their Android phones but prefer the look or 
+just features with an Apple Watch. Another   downside I've encountered over the past 6 months 
+is software updates. Because I wear this watch   to bed, automatic updates never install because 
+they're set to auto-install at like 2 a.m. when   the watch is on the charger. But I'd still like 
+Apple to give me the choice to be able to set   when automatic updates should install. The last 
+big downside I found with this watch, and this   applies to all Apple watches, is repairability. 
+I'd really like to see Apple work to make the   Apple watch have a user-replaceable battery 
+where you don't need to take it to a repair   shop or order a special repair kit and tools from 
+Apple just to replace something like the battery. Now, let's talk recommendations. Do I recommend 
+the Series 9 if you have an iPhone? Yes, it has   a ton of great features and critical ones like 
+finding your phone if you don't know where it is,   easy access to Media controls, Fitness tracking, 
+and more. Now do keep in mind, now that it has   been 6 months with the Series 9, that means we're 
+only 6 months away from the next version coming   out this September. So for some, it's going to 
+be better just to wait for the newer version,   while for others, if you need one now and 
+you can find a good deal on the Series 9,   I'd say go for it. And if you're stuck 
+choosing between the Series 9, Apple Watch SE,   and Apple Watch Ultra, in general, the 
+reason why I went with the Series 9 over   something like the Apple Watch Ultra is I just 
+really wanted that classic Apple Watch look,   and the Ultra is just a little bit bigger and more 
+chunky. I don't care for the aesthetics as much,   and I needed a watch that had fast charging 
+capability as well as gave you the option of   ordering it with a sapphire crystal display, 
+which you cannot get with the SE. In general,   I always think the sapphire crystal is worth it 
+if you're like me and you just can't stand seeing   micro scratches on your watch face. I've slammed 
+this watch into so many things after 6 months,   and there's not a scratch to be found on its 
+display. So those are my thoughts on the Apple   Watch Series 9. Now, if you're also looking 
+at potentially getting a new iPhone and want   to see my thoughts on this year's iPhone 15 Pro 
+Max, you can click here to get to that review,   or you can click here to get to all of my other 
+reviews on Apple products like the HomePod Mini,   AirPods Max, and more. If you like this video 
+and you found it helpful, make sure you hit   that thumbs up button below. It really helps us 
+out, and don't forget to subscribe if you want to   see more of my thoughts on Apple products. For 6 
+months later, I'm Josh Teder. Thanks for watching. 
